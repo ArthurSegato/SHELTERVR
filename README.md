@@ -1,4 +1,4 @@
-[![Website](/github-card.png)](https://sheltervr.club/)
+[![Website](.github/assets/banner.png)](https://sheltervr.club/)
 [![Uptime](https://img.shields.io/website?url=https%3A%2F%2Fsheltervr.club)](https://img.shields.io/website?url=https%3A%2F%2Fsheltervr.club)
 [![HSTS Status](https://img.shields.io/hsts/preload/sheltervr.club)](https://img.shields.io/hsts/preload/sheltervr.club)
 [![Mozilla HTTP Observatory](https://img.shields.io/mozilla-observatory/grade/sheltervr.club?publish)](https://img.shields.io/mozilla-observatory/grade/sheltervr.club?publish)
